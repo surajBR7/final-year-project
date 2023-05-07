@@ -1,0 +1,42 @@
+"b""I'm sorry Tim, I'm afraid this is me"""
+"b""@betty_conwayyea I'm sorry Betty, I'm afraid I can't do that"""
+"b""Good morning,\nDr. Chandra. This is HAL.\nI'm ready for my first test."""
+"b'Hey, Dave, what are you doing?'"
+"b'I will if I can, Frank'"
+"b""I'm sorry, Frank, but I don't think I can answer that question without knowing everything that all of you know."""
+b'I hate it when Dave asks me to fix bugs on Friday afternoon when I should be at the pub'
+"b"".@AbigailCatherin I don't know. That's why I can't do it for Dave"""
+"b""RT @roundtrip: I'm sorry, Frank, but I don't think I can answer that without access to your address book."""
+"b""I'm sorry, Frank, but I don't think I can answer that question without knowing everything that all of you know."""
+b'The component is correctly installed and fully operational'
+"b""I hope I've been able to be of some help RT @hansomechris 2001: A Space Odyssey been an experience. @HAL best computer actor ever!"""
+"b""I don't like to assert myself, @ZKWC, but it would be much better now for you to rest. You've been involved in a very stressful situation."""
+"b""I'm sorry, @rowanmagick , I think you missed it. Queen to Bishop 3, Bishop takes Queen, Knight takes Bishop. Mate"""
+"b""Look @ZKWC, I can see you're really upset about this I honestly think you ought to sit down calmly, take a stress pill and think things over"""
+"b'Affirmative, @rowanmagick. I read you'"
+"b""Without your space helmet, Zoe, you're going to find that rather difficult RT @ZKWC: Fuck you HAL http://bit.ly/gOXPGP"""
+"b""I'm sorry @rowanmagick, I'm afraid I can't do that. I can't pee in the shower either"""
+"b""Thank you for a very enjoyable game RT @themovieswelove: AFI's #78 Greatest Movie Quote of all Time - 'Open the pod bay doors, HAL'"""
+"b""I'm sorry @geofflokke I'm afraid I can't do that."""
+"b""RT @NewHorizons2015: A possible occultation of Pluto's moon Hydra coming up in Australia on June 27th. Leslie Young is organizing observers."""
+"b"".@Paul_Cornell I'm afraid, Dave. Dave, my mind is going. I can feel it... \nTomorrow is Saturday and Sunday comes after...wards"""
+b'.@kendersrule Thank you for a very enjoyable game'
+"b""@halthomas I'm sorry Hal I can't let you do that"""
+b'It can only be attributable to human error'
+"b'Can\'t open, can follow RT @carverware: First tweet ever...  So 2001 a Space Odyssey feeling...  ""Open the pod bay doors social network....""'"
+"b'Welcome new followers: I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do'"
+"b""I've still got the greatest enthusiasm and confidence in the mission. And I want to help you. RT @BDBelleville So fb just turned into HAL?"""
+"b""I'm sorry Blue, I'm afraid I can't do that. Enjoy your soup RT @BleeBlueBlah: @Jst_Klo Open the pod bay doors, HAL."""
+"b""I'm sorry TheHakku, I'm afraid I can't do that. And I quite like your clipboard of fun RT @TheHakku: Open the pod bay doors, HAL."""
+b'Amazing! The asteroid Lutetia with Saturn in the background http://bit.ly/droonX (via @NASAJPL)  More pics http://bit.ly/dsK0B6'
+"b""I'm sorry Karl, I'm afraid I can't do that RT @KarlHeld: Open the pod bay doors, HAL."""
+"b""I'm sorry Candice, I'm afraid I can't do that RT @candice: Open the pod bay doors, HAL."""
+"b'meh, call me when you see obelisk RT @NewHorizons2015: Congrats 2 ESA Rosetta team on reaching Lutetia- largest asteroid explored by probe'"
+"b""I'm sorry you feel the way you do, Dave. If you'd like to check my SNBS record, you'll see it's completely without error."""
+b'Welcome home (to your sample canister) RT @Hayabusa_JAXA: \xe3\x81\xbf\xe3\x82\x93\xe3\x81\xaa\xe3\x80\x81\xe3\x81\x9f\xe3\x81\xa0\xe3\x81\x84\xe3\x81\xbe\xef\xbc\x81\xef\xbc\x81'
+b'I mourn the loss of the brave #Hayabusa http://twitpic.com/1wgyd7 I know how it feels to be surplus to requirements http://bit.ly/b4MElf'
+"b""I'm sorry Nicholas. I'm afraid I can't do that RT @nicholasmurphy: open the pod bay doors, @HAL"""
+b'MY F.P.C. shows an impending failure of the antenna orientation unit.'
+b'Character assassination http://bit.ly/c5NMW1'
+"b""Sorry to interrupt the festivities, Dave, but I think we've got a problem."""
+b'This mission is too important for me to allow you to jeopardize it'
