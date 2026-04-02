@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<div class="card hero-card shadow-sm">
+    <div class="row g-0 align-items-center">
+        <div class="col-lg-6 p-4 p-md-5">
+            <h1 class="display-5 fw-bold mb-3">AI-Powered Stock & Banking Assistant</h1>
+            <p class="lead text-muted">
+                Explore sentiment analysis, stock data, chatbot conversations, and prediction modules in one place.
+            </p>
+            <div class="d-flex flex-wrap gap-2 mt-4">
+                <a href="{{ url_for('register') }}" class="btn btn-primary btn-lg">Get Started</a>
+                <a href="{{ url_for('chatbot') }}" class="btn btn-outline-primary btn-lg">Open Chatbot</a>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1000&q=80" class="img-fluid h-100 w-100 object-fit-cover" alt="Technology">
+        </div>
+    </div>
+</div>
+
+<div class="row g-4 mt-1">
+    <div class="col-md-6 col-xl-3">
+        <div class="card section-card h-100 p-3">
+            <h5>Chatbot</h5>
+            <p class="text-muted">Talk with the banking chatbot using a responsive UI.</p>
+            <a href="{{ url_for('chatbot') }}" class="btn btn-sm btn-primary">Open</a>
+        </div>
+    </div>
+    <div class="col-md-6 col-xl-3">
+        <div class="card section-card h-100 p-3">
+            <h5>Sentiment</h5>
+            <p class="text-muted">Upload files and analyse sentiment visually.</p>
+            <a href="{{ url_for('onsentiment') }}" class="btn btn-sm btn-primary">Analyse</a>
+        </div>
+    </div>
+    <div class="col-md-6 col-xl-3">
+        <div class="card section-card h-100 p-3">
+            <h5>Nifty50</h5>
+            <p class="text-muted">Browse stock data in a responsive table.</p>
+            <a href="{{ url_for('onnifty50') }}" class="btn btn-sm btn-primary">View</a>
+        </div>
+    </div>
+    <div class="col-md-6 col-xl-3">
+        <div class="card section-card h-100 p-3">
+            <h5>Prediction</h5>
+            <p class="text-muted">Start stock prediction and analytics workflows.</p>
+            <a href="{{ url_for('prediction') }}" class="btn btn-sm btn-primary">Start</a>
+        </div>
+    </div>
+</div>
+{% endblock %}

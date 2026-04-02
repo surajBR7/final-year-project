@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}Analyse File{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-lg-8">
+        <div class="card section-card p-4">
+            <h2 class="fw-bold mb-3">Upload File for Sentiment Analysis</h2>
+            <form action="{{ url_for('analyse') }}" method="POST" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label class="form-label">Choose a file</label>
+                    <input type="file" name="file" class="form-control">
+                </div>
+                <button type="submit" class="btn btn-primary">Analyse File</button>
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block title %}Nifty50 Data{% endblock %}
+
+{% block content %}
+<div class="card section-card p-4">
+    <div class="d-flex justify-content-between align-items-center flex-wrap gap-2 mb-3">
+        <h2 class="fw-bold mb-0">Nifty50 Stock Data</h2>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-striped table-hover table-bordered align-middle">
+            <thead class="table-primary">
+                <tr>
+                    {% for col in header %}
+                        <th>{{ col }}</th>
+                    {% endfor %}
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in data %}
+                    <tr>
+                        {% for item in row %}
+                            <td>{{ item }}</td>
+                        {% endfor %}
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endblock %}

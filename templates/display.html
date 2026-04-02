@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}Analysis Result{% endblock %}
+
+{% block content %}
+<div class="row g-4">
+    <div class="col-lg-5">
+        <div class="card section-card p-4 h-100">
+            <h2 class="fw-bold mb-3">Sentiment Summary</h2>
+            <ul class="list-group">
+                {% for key, value in result.items() %}
+                    <li class="list-group-item d-flex justify-content-between">
+                        <span>{{ key }}</span>
+                        <strong>{{ value }}</strong>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+
+    <div class="col-lg-7">
+        <div class="card section-card p-4 h-100">
+            <h2 class="fw-bold mb-3">Sentiment Chart</h2>
+            <img src="{{ url_for('static', filename='my_plot.png') }}" alt="Sentiment Plot" class="responsive-img">
+        </div>
+    </div>
+</div>
+{% endblock %}
